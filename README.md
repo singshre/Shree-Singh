@@ -1,5 +1,3 @@
-Here’s an improved, animated, and vibrant version of your GitHub profile README:
-
 👋 Hi there, I’m Shree Singh!
 
 Welcome to my GitHub profile! 🎉
@@ -93,6 +91,3 @@ Thanks for visiting my profile! Let’s connect and collaborate! 💬
 <p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
-
-
-This README incorporates animations, vibrant colors, and rich formatting to ensure it’s visually appealing and engaging.
