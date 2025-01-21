@@ -1,17 +1,20 @@
 # Hi there, I'm Shree Singh! 👋
 
-Welcome to my GitHub profile! I am passionate about technology and love to create, innovate, and explore new things in the world of software development.
-
-## 🛠️ My Skills
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+Welcome to my GitHub profile! I am a highly motivated and dedicated professional with 10 years of experience in Cloud Platform support and Automation. I have a proven track record in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Let's connect and collaborate!
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-singh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shree_singh)
-[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shree-singh.com)
+[![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singshre@yahoo.com)
+
+## 🛠️ My Skills
+- **Cloud Platforms:** AWS, GCP
+- **DevOps Tools:** Jenkins, Docker, Kubernetes, Ansible, Terraform, Git, GitHub
+- **Operating Systems:** Linux (Red Hat, Fedora, Ubuntu), Windows 11/10/8/7/XP
+- **Databases:** Oracle, MS-SQL
+- **Development Tools / IDE:** Oracle SQL Developer, PL/SQL, Data Stage 8.7, Autosys, Toad/SQL Developer, WinSCP, Putty, Informatica 10.5, ServiceNow, ITRS Geneos, AppDynamics, GIT, Stash, Bitbucket, JIRA, RedHat OpenShift
+- **Automation Tools:** Geneos ITRS, Autosys, Jenkins Pipelines
+- **Scripting:** Shell Scripting
+- **Monitoring:** CloudWatch, ITRS Geneos, AppDynamics, Kibana, Elastic, Thousand Eyes
 
 ## 📈 GitHub Stats
 ![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=singshre&show_icons=true&theme=radical)
@@ -23,7 +26,10 @@ Welcome to my GitHub profile! I am passionate about technology and love to creat
 - 🔭 I’m currently working on exciting open-source projects.
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 💬 Ask me about web development, cloud computing, and DevOps.
-- 📫 How to reach me: [Email](mailto:shree@example.com)
+- 📫 How to reach me: [Email](mailto:singshre@yahoo.com)
+
+## 👨‍💼 Profile Summary
+Highly motivated and dedicated professional with 10 years of experience in Cloud Platform support and Automation. Proven expertise in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Experienced in supporting investment management solutions such as Charles River IMS within the Investment Banking and Asset Management sectors. Adept at automating manual tasks using various scripting languages (PowerShell, Shell scripting, VB Script). Seeking an environment that fosters continuous learning and provides opportunities for personal and professional growth.
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -39,8 +45,41 @@ A brief description of the project. What technologies it uses, what problems it 
 ### Project 2: [Another Cool Project](https://github.com/singshre/cool-project)
 A brief description of the project. What technologies it uses, what problems it solves, and why it's cool!
 
-## 🤝 Contribution Guidelines
-If you want to contribute to any of my projects, feel free to open a pull request or issue. Check out the [contribution guidelines](https://github.com/singshre/contributing) for more details.
+## 💼 Work Experience
+
+### Assistant Vice President (AVP)
+**Barclays Global Service Centre Private Limited (Barclays)**
+- **Duration:** July 2024 – Present
+
+### Application Support Specialist
+**Barclays Global Service Centre Private Limited (Barclays)**
+- **Duration:** July 2021 – 2024
+
+### Reference Data – Application Support Analyst
+**Barclays Global Service Centre Private Limited (Barclays)**
+- **Duration:** Feb 2019 – July 2021
+
+### Development and Support (CIRT Application Owner)/IXOS bar code scanner. Support
+**Mphasis Pvt Ltd (Client: Veritiv (Xpedx))**
+- **Duration:** November 2015 – Jan 2019
+
+### Software Engineer
+**Mphasis Pvt Ltd (Client: General Motors (OnStar Device))**
+- **Duration:** April 2014 – November 2015
+
+## 🎓 Education
+- **Master Of Computer Application (MCA)** | MCU University, Bhopal, M.P (2013)
+- **Bachelor Of Computer Application (BCA)** | GICTS, Gwalior, M.P (2010)
+- **12th** | Jail Road Boy’s Higher Secondary School, Shillong, Meghalaya (2007)
+- **10th** | ST. Nanak High School, Shillong, Meghalaya (2005)
+
+## 📍 Personal Details
+- **Date of Birth:** 02 Dec 1989
+- **Father’s Name:** Lt. Ram Prabesh Singh
+- **Marital Status:** Married
+- **Nationality:** Indian
+- **Languages Known:** English, Hindi
+- **Permanent Address:** Flat No A 504 Icon Imperio Ivy Estate, Wagholi Pune Maharashtra 412207
 
 ---
 
