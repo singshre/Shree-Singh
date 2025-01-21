@@ -1,6 +1,6 @@
 # Hi there, I'm Shree Singh! 👋
 
-Welcome to my GitHub profile! I am a highly motivated and dedicated professional with 10 years of experience in Cloud Platform support and Automation. I have a proven track record in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Let's connect and collaborate!
+Welcome to my GitHub profile! I am a highly motivated and dedicated professional with 11 years of experience in Cloud Platform support and Automation. I have a proven track record in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Let's connect and collaborate!
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-singh/)
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a highly motivated and dedicated professional
 - 📫 How to reach me: [Email](mailto:singshre@yahoo.com)
 
 ## 👨‍💼 Profile Summary
-Highly motivated and dedicated professional with 10 years of experience in Cloud Platform support and Automation. Proven expertise in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Experienced in supporting investment management solutions such as Charles River IMS within the Investment Banking and Asset Management sectors. Adept at automating manual tasks using various scripting languages (PowerShell, Shell scripting, VB Script). Seeking an environment that fosters continuous learning and provides opportunities for personal and professional growth.
+Highly motivated and dedicated professional with 11 years of experience in Cloud Platform support and Automation. Proven expertise in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Experienced in supporting investment management solutions such as Charles River IMS within the Investment Banking and Asset Management sectors. Adept at automating manual tasks using various scripting languages (PowerShell, Shell scripting, VB Script). Seeking an environment that fosters continuous learning and provides opportunities for personal and professional growth.
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -74,12 +74,9 @@ A brief description of the project. What technologies it uses, what problems it 
 - **10th** | ST. Nanak High School, Shillong, Meghalaya (2005)
 
 ## 📍 Personal Details
-- **Date of Birth:** 02 Dec 1989
-- **Father’s Name:** Lt. Ram Prabesh Singh
-- **Marital Status:** Married
 - **Nationality:** Indian
 - **Languages Known:** English, Hindi
-- **Permanent Address:** Flat No A 504 Icon Imperio Ivy Estate, Wagholi Pune Maharashtra 412207
+
 
 ---
 
