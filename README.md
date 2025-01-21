@@ -81,6 +81,3 @@ A brief description of the project. What technologies it uses, what problems it 
 ---
 
 Thanks for visiting my profile! Have a great day! 😊
-
-Use this readme file for github , create a attractive and animated profile which look beautiful. Make one of the best and perfect github profile.include a quote of the day technology. Use my linkedin profile link to fetch more details about me http://linkedin.com/in/shree-singh-2b989a25/
-Use as much as possible animation and colour to look attractive 
