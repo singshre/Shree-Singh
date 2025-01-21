@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a highly motivated and dedicated professional with 11 years of experience in Cloud Platform support and Automation. I have a proven track record in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, App Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Let's connect and collaborate!
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-singh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shree-singh-2b989a25/)
 [![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singshre@yahoo.com)
 
 ## 🛠️ My Skills
